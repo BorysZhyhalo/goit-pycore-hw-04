@@ -1,3 +1,7 @@
 Alex Korp,3000
+Anna,-500
 Nikita Borisenko,2000
+Alex,abc
 Sitarama Raju,1000
+,2000
+Igor,
