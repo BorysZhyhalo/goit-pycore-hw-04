@@ -377,7 +377,7 @@ ValueError: not enough values to unpack (expected 2, got 0)
 
 ### Результат виконаного ДЗ
 
-1. python Task_1/main.py --file Task_1/salary_file.txt
+1. 
 
 ![Results](./output/task_1.png)
 
@@ -386,6 +386,7 @@ ValueError: not enough values to unpack (expected 2, got 0)
 ![Results](./output/task_2.png)
 
 3.
+python main.py picture
 
 ![Results](./output/task_3.png)
 
