@@ -155,7 +155,7 @@ python hw03.py /шлях/до/вашої/директорії
 
 Скрипт повинен вивести схожу структуру
 
-![img](./assets/picture.png)
+![img](./output/picture.png)
 
 ### Завдання 4
 
@@ -377,18 +377,18 @@ ValueError: not enough values to unpack (expected 2, got 0)
 
 ### Результат виконаного ДЗ
 
-1.
+1. python Task_1/main.py --file Task_1/salary_file.txt
 
-![Results](./assets/screen-1.png)
+![Results](./output/task_1.png)
 
 2.
 
-![Results](./assets/screen-2.png)
+![Results](./output/screen-2.png)
 
 3.
 
-![Results](./assets/screen-3.png)
+![Results](./output/screen-3.png)
 
 4.
 
-![Results](./assets/screen-4.png)
+![Results](./output/screen-4.png)
