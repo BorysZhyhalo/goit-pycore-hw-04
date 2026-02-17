@@ -383,12 +383,12 @@ ValueError: not enough values to unpack (expected 2, got 0)
 
 2.
 
-![Results](./output/screen-2.png)
+![Results](./output/task_2.png)
 
 3.
 
-![Results](./output/screen-3.png)
+![Results](./output/task_3.png)
 
 4.
 
-![Results](./output/screen-4.png)
+![Results](./output/task_4.png)
