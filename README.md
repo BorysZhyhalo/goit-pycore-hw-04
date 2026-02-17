@@ -378,18 +378,14 @@ ValueError: not enough values to unpack (expected 2, got 0)
 ### Результат виконаного ДЗ
 
 1. 
-
 ![Results](./output/task_1.png)
 
-2.
-
+2. 
 ![Results](./output/task_2.png)
 
 3.
 python main.py picture
-
 ![Results](./output/task_3.png)
 
 4.
-
 ![Results](./output/task_4.png)
