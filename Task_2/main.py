@@ -14,7 +14,7 @@ def get_cats_info(path: Path) -> List[Dict[str, str]]:
     try:
         with open(path, "r", encoding="utf-8") as file:
             for row in file:
-                row = row.strip() #видаляємо пробіли і знаки табуляції в кінці рядка
+                row = row.strip() #видаляємо пробіли і знаки табуляції з обох кінців рядка
                 parts = row.split(",") # розділяємо за комою на три елементи 
 
                 if len(parts) != 3: # перевірка чи наша структура збережена 
@@ -36,7 +36,7 @@ def get_cats_info(path: Path) -> List[Dict[str, str]]:
         return []
 
 cats_info = get_cats_info(Path("Task_2/cats_file.txt"))
-pprint(cats_info)
+pprint(cats_info, sort_dicts=False)
 
 #cats_info = get_cats_info("path/to/cats_file.txt") -> перевірка якщо файлу не має
 #print(cats_info)
