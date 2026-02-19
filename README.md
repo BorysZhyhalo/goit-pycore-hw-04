@@ -390,11 +390,11 @@ python main.py picture
 4.
 ![Results](./output/task_4.png)
 
-Test case for Task_4:
+### Test case for Task_4:
 
-add John 123
-add Mary 999
-all
-change John 555
-phone John
-exit
+- add John 123
+- add Mary 999
+- all
+- change John 555
+- phone John
+- exit
